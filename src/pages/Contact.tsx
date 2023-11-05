@@ -1,9 +1,9 @@
 import React from 'react';
 
-const About = () => {
+const Contact = () => {
   return (
     <>
-      <h1>About</h1>
+      <h1>Contact</h1>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla iure
         nemo aspernatur! Accusantium, velit fugiat incidunt rem aspernatur
@@ -14,4 +14,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Contact;
