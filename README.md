@@ -2,6 +2,8 @@
 
 Showreel-Website
 
+Lorem Ipsum
+
 # Project name and introduction
 
 Lorem Ipsum
@@ -9,6 +11,8 @@ Lorem Ipsum
 # Table of contents
 
 Lorem Ipsum
+
+# Links
 
 # Requirements
 
@@ -23,6 +27,26 @@ Lorem Ipsum
 Lorem Ipsum
 
 # Configuration
+
+Lorem Ipsum
+
+# Development
+
+Lorem Ipsum
+
+# Scripts
+
+Lorem Ipsum
+
+# CI/CD
+
+Lorem Ipsum
+
+# Contributting
+
+Lorem Ipsum
+
+# Commits
 
 Lorem Ipsum
 
