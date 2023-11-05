@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <>
+    <div>
       <h1>About</h1>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla iure
@@ -10,7 +10,7 @@ const About = () => {
         tempora magnam recusandae expedita quam delectus, obcaecati nulla libero
         debitis, facere similique!
       </p>
-    </>
+    </div>
   );
 };
 
