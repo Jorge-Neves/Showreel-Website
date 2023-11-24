@@ -1,10 +1,17 @@
-import React from 'react';
-import './App.css';
-import About from './pages/About';
+import React from "react";
+import "./App.css";
+import About from "./pages/About";
 
 function App() {
   return (
     <div className="App">
+      <header className="App-header-test">
+        <p>Navbar Item</p>
+        <p>Navbar Item</p>
+        <p>Logo</p>
+        <p>Navbar Item</p>
+        <p>Navbar Item</p>
+      </header>
       <header className="App-header">
         <p>Navbar Item</p>
         <p>Navbar Item</p>
