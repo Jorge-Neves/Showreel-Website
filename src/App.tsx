@@ -6,16 +6,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header-test">
-        <p>Navbar Item</p>
-        <p>Navbar Item</p>
-        <p>Logo</p>
-        <p>Navbar Item</p>
-        <p>Navbar Item</p>
+        <div className="logo-test">
+          <span>Logo</span>
+        </div>
+        <div className="button-container-test">
+          <div className="button-test">Navbar Item</div>
+          <div className="button-test">Navbar Item</div>
+          <div className="button-test">Navbar Item</div>
+          <div className="button-test">Navbar Item</div>
+        </div>
       </header>
       <header className="App-header">
         <p>Navbar Item</p>
         <p>Navbar Item</p>
-        <p>Logo</p>
+        <div>Logo</div>
         <p>Navbar Item</p>
         <p>Navbar Item</p>
       </header>
