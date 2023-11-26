@@ -16,15 +16,10 @@ function App() {
           <div className="button-test">Button</div>
         </div>
       </header>
-      <header className="App-header">
-        <p>Navbar Item</p>
-        <p>Navbar Item</p>
-        <div>Logo</div>
-        <p>Navbar Item</p>
-        <p>Navbar Item</p>
-      </header>
-      <div>
-        <p>Hero Section</p>
+      <div className="content-test">
+        <div className="play-button-test">
+          <div className="play-button-arrow-right-test" />
+        </div>
       </div>
       <div>
         <h1>Section Heading</h1>

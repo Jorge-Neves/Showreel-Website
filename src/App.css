@@ -40,7 +40,8 @@
 }
 
 .button-container-test {
-  width: 100vw;
+  width: 100%;
+  box-sizing: border-box;
   height: 10vw;
   background-color: rgb(192, 137, 137);
   display: flex;
@@ -53,10 +54,43 @@
   width: 25vw;
   height: 10vw;
   border: 2px dashed rgb(255, 255, 255);
+  box-sizing: border-box;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+}
+
+.content-test {
+  width: 100%;
+  height: 52vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  box-sizing: border-box;
+  border: 2px dashed rgb(255, 255, 255);
+}
+
+.play-button-test {
+  width: 8vw;
+  height: 8vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 2px dashed rgb(0, 0, 0);
+}
+
+.play-button-arrow-right-test {
+  border-top: 2vw solid transparent;
+  border-bottom: 2vw solid transparent;
+  border-left: 2vw solid rgb(0, 0, 0);
+  box-sizing: border-box;
 }
 
 .App-header {
