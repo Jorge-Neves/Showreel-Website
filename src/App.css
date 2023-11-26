@@ -25,7 +25,7 @@
   color: black;
 }
 
-.logo-test{
+.logo-test {
   width: 6.9vw;
   height: 6.9vw;
   background-color: rgb(41, 37, 37);
@@ -33,13 +33,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 0.75vw;
+  font-size: 2vw;
   color: white;
   margin-top: 2.6vw;
   margin-bottom: 1vw;
 }
 
-.button-container-test{
+.button-container-test {
   width: 100vw;
   height: 10vw;
   background-color: rgb(192, 137, 137);
@@ -49,7 +49,7 @@
   align-items: center;
 }
 
-.button-test{
+.button-test {
   width: 25vw;
   height: 10vw;
   border: 2px dashed rgb(255, 255, 255);

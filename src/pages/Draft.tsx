@@ -1,21 +1,8 @@
 import React from 'react';
-import './App.css';
-import About from './pages/About';
 
-function App() {
+const About = () => {
   return (
     <div className="App">
-      <header className="App-header-test">
-        <div className="logo-test">
-          <span>Logo</span>
-        </div>
-        <div className="button-container-test">
-          <div className="button-test">Button</div>
-          <div className="button-test">Button</div>
-          <div className="button-test">Button</div>
-          <div className="button-test">Button</div>
-        </div>
-      </header>
       <header className="App-header">
         <p>Navbar Item</p>
         <p>Navbar Item</p>
@@ -73,6 +60,6 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
-export default App;
+export default About;
