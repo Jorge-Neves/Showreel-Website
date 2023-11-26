@@ -21,49 +21,7 @@ function App() {
           <div className="play-button-arrow-right-test" />
         </div>
       </div>
-      <div>
-        <h1>Section Heading</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto
-          minima ducimus magnam harum, repellendus tempore odio nam sed error
-          asperiores voluptate commodi autem eos dolorum quod eum vel soluta
-          fuga.
-        </p>
-        <div>
-          <div>
-            <p>Video Thumbnail</p>
-            <p>Video Caption</p>
-          </div>
-          <div>
-            <p>Video Thumbnail</p>
-            <p>Video Caption</p>
-          </div>
-          <div>
-            <p>Video Thumbnail</p>
-            <p>Video Caption</p>
-          </div>
-          <div>
-            <p>Video Thumbnail</p>
-            <p>Video Caption</p>
-          </div>
-          <div>
-            <p>Video Thumbnail</p>
-            <p>Video Caption</p>
-          </div>
-          <div>
-            <p>Video Thumbnail</p>
-            <p>Video Caption</p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <p>Hero Section</p>
-      </div>
-      <div>
-        <p>Hero Section</p>
-      </div>
-      <About />
-      <div>
+      <div className="contacts-section-test">
         <p>Footer</p>
       </div>
     </div>
